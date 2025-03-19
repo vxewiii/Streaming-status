@@ -6,114 +6,18 @@
   "config": {
     "options": {
       "watch-url": [
-        "https://www.twitch.tv/4levy_z1",
-        "https://www.youtube.com/watch?v=HuFZX0LB29g"
+        "https://www.youtube.com/watch?v=K8hBqf_dC8s"
       ],
       "timestamp": "{start}"
     },
-    "text-1": [
-      "{NF3( 〈 {emoji:time} {hour:1} : {min:1} 〉 ⭒ 〈 📆 {th=date} / {en=month:3} / {en=year:2} 〉 )}"
-    ],
-    "text-2": [
-      "{NF3(Shorekeeper Loading..)}",
-      "☆ | 💙 ╺  Shorekeeper  ྀི𓈒",
-      "☆ | 💙⠀╺  Shorekeeper  ྀི𓈒",
-
-      "{NF3(Camellya Loading..)}",
-      "☆ | ❤️⠀╺  Camellya  ྀི𓈒",
-      "☆ | ❤️⠀╺  Camellya  ྀི𓈒",
-
-      "{NF3(Castorice Loading..)}",
-      "☆ | ⭐⠀╺  Castorice  ྀི𓈒",
-      "☆ | ⭐⠀╺  Castorice  ྀི𓈒",
-
-      "{NF3(Phrolova Loading..)}",
-      "❀ | 🥀⠀╺  Phrolova  ྀི𓈒",
-      "❀ | 🥀⠀╺  Phrolova  ྀི𓈒",
-
-      "{NF3(Hu Tao Loading..)}",
-      "⚡︎ | 🔥⠀╺  Hu Tao  ྀི𓈒",
-      "⚡︎ | 🔥⠀╺  Hu Tao  ྀི𓈒",
-
-      "{NF3(Herta Loading..)}",
-      "☾. | 💜⠀╺  Herta  ྀི𓈒",
-      "☾. | 💜⠀╺  Herta  ྀི𓈒",
-
-      "{NF3(Feixiao Loading..)}",
-      "‧₊˚ | 🌺 ╺ ⠀Feixiao  ྀི𓈒",
-      "‧₊˚ | 🌺 ╺ ⠀Feixiao  ྀི𓈒",
-
-      "{NF3(Sparkle Loading..)}",
-      "| 🩸 ╺  Sparkle ♡",
-      "| 🩸⠀╺  Sparkle ♡",
-      "| 🩸⠀╺  Sparkle ♡",
-
-      "{NF3(Acheron Loading..)}",
-      "| ☪⠀╺  Acheron ♡",
-      "| ☪⠀╺  Acheron ♡",
-      "| ☪⠀╺  Acheron ♡",
-
-      "{NF3(Miku Loading..)}",
-      "| 💙 ╺  Miku ♡",
-      "| 💙 ╺  Miku ♡",
-      "| 💙 ╺  Miku ♡",
-
-      "{NF3(Saber Loading..)}",
-      "| 🖤 ╺  Saber ♡",
-      "| 🖤 ╺  Saber ♡",
-      "| 🖤 ╺  Saber ♡",
-      "| 🖤 ╺  Saber ♡"
-    ],
-    "text-3": ["☆★✮⋆☆★✮⋆ | ᶻ 𝘇 𐰁  "],
+    "text-1": ["𝙗𝙖𝙗𝙮𝙘𝙝𝙖𝙢𝙥𝙖𝙜𝙣𝙚 ⋆.˚"],
+    "text-2": ["𝖸𝗈𝗎 𝖺𝗋𝖾 𝗆𝗒 𝗍𝗒𝗉𝖾"],
     "bigimg": [
-      "https://i.postimg.cc/hPvfwgm6/e82a9cc4dfb33f35ae9e80516029a4bd.jpg",
-      "https://i.postimg.cc/QMGCHTzZ/1466b50d052f2a08728fe616829c843d.gif",
-      "https://i.postimg.cc/8PYjg3B5/shorekeeper-wuthering-waves.gif",
-
-      "https://i.postimg.cc/QdNSvFms/7721a7a987bc327a2e48688aaf8ce14d.jpg",
-      "https://i.postimg.cc/vmkz13sH/tumblr-4cc7f17d2d389344c18e3f4dc04cef91-3cc43676-400.gif",
-      "https://i.postimg.cc/vmchHCCN/camellya-camillya.gif",
-
-      "https://i.postimg.cc/rmVHJfHG/castorice-hsr.gif",
-      "https://i.postimg.cc/nrMP8CpC/d95bed6c4cb1029c468d1087f02027b5-5397931163153391134.gif",
-      "https://i.postimg.cc/Gh85q8Xf/ca4b3b018f8b124f66928f9a821f2b0a-9000685418518833536.gif",
-
-      "https://i.postimg.cc/9F3H4N7D/85c21df5a46fd5aadfb10e16d47acde4.jpg",
-      "https://i.postimg.cc/zG8m7bp5/wuthering-waves-wuwa.gif",
-      "https://i.postimg.cc/ZKrt6F8V/phrolova-wuwa.gif",
-
-      "https://i.postimg.cc/9Qh2kNm6/f28856e0c27c06746bca71c7f3b9468b.jpg",
-      "https://i.postimg.cc/8zmGgBsj/hutao-hu-tao.gif",
-      "https://i.postimg.cc/yN6H1gSn/tumblr-61d890c57df5701e668a020d993fdb81-ae0a7c3b-540.gif",
-
-      "https://i.postimg.cc/65Q50PQY/Herta-icon.jpg",
-      "https://i.postimg.cc/jSpxRd4F/ezgif-7-880e4f2ec3-OHO.gif",
-      "https://i.postimg.cc/Zq6TntfK/b2a55a33-3627-4d4e-8e12-fcb95c0f8d7c.gif",
-
-      "https://i.postimg.cc/bvV6184V/Feixiao.jpg",
-      "https://i.postimg.cc/52F5DbCC/Pic-1.gif",
-      "https://i.postimg.cc/YqPfXhh7/Pic-2.gif",
-
-      "https://i.postimg.cc/dVKjCD3V/Sparkle.jpg",
-      "https://i.postimg.cc/tgqdrfh0/Sparkle-2.gif",
-      "https://i.postimg.cc/CxHHsYnH/Sparkle-3.gif",
-      "https://i.postimg.cc/VLXjz1gQ/Sparkle-4.gif",
-
-      "https://i.postimg.cc/Kvh0P0sb/Acheron.jpg",
-      "https://i.postimg.cc/CxFJtzg6/Acheron-2.gif",
-      "https://i.postimg.cc/6QqcWgTr/Acheron-3.gif",
-      "https://i.postimg.cc/4xBwTs44/Acheron-4.gif",
-
-      "https://i.postimg.cc/Y266HMbc/Miku.jpg",
-      "https://i.postimg.cc/ZKj6WHGV/Miku-2.gif",
-      "https://i.postimg.cc/Cx1kkDYY/Miku-3.gif",
-      "https://i.postimg.cc/jdRzqmFD/Miku-4.gif",
-
-      "https://i.postimg.cc/tT54BStc/Saber.jpg",
-      "https://i.postimg.cc/1X352Gv3/Saber-2.gif",
-      "https://i.postimg.cc/yxpYHDGX/Saber-3.gif",
-      "https://i.postimg.cc/02ryCC6t/Saber-4.gif",
-      "https://i.postimg.cc/c1FJYzJg/Saber-5.gif"
+            "https://i.postimg.cc/rpBrZKTT/C9-AF724-F-9762-4-E10-BFEC-8-E4-D7-E1-DCD09.gif",
+            "https://i.postimg.cc/SNLf209d/EB33-AD4-D-609-E-464-D-AEF2-0069-E10-B4647.gif",
+            "https://i.postimg.cc/DwL0yFbf/41-CF0982-1-ACE-49-D6-AAAA-85-D8-F20194-F5.gif",
+            "https://i.postimg.cc/nzCYWCCc/145-E40-D9-235-E-40-B2-A81-C-6-C0-ABFD4-ACD7.gif",
+            "https://i.postimg.cc/yxttkMSs/3-C7963-A1-49-C3-4-EC0-9-D20-D04-E84-A64-D12.gif"
     ],
     "smallimg": [],
     "button-1": [
