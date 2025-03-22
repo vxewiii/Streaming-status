@@ -22,7 +22,7 @@ class GetImage {
 
     async get(url1, url2) {
         try {
-            url1 = this.isValidURL(https://i.ibb.co/218TmmFt/1711043371431.jpg) ? url1 : null;
+            url1 = this.isValidURL(url1) ? url1 : null;
             url2 = this.isValidURL(url2) ? url2 : null;
             if (!url1 && !url2) {
                 throw new Error("No Image");
