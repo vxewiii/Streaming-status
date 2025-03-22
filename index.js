@@ -29,7 +29,7 @@ class GetImage {
             }
 
             const { getExternal } = RichPresence;
-            const images = await getExternal(this.client, "1109522937989562409", url1, url2);
+            const images = await getExternal(this.client, "1352749268204650516", url1, url2);
 
             if (images.length === 1) {
                 const { url, external_asset_path } = images[0];
