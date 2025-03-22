@@ -38,7 +38,7 @@ class GetImage {
                     url2 = null;
                 } else if (url === url2) {
                     url1 = null;
-                    url2 = url.includes("attachments") ? url : external_asset_path;
+                    url2 = url.includes("https://i.ibb.co/218TmmFt/1711043371431.jpg") ? url : external_asset_path;
                 }
             } else if (images.length === 2) {
                 const [img1, img2] = images;
